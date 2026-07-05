@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Task1/server.js",
-    "dev": "nodemon Task1/server.js"
+    "start": "node Task2/server.js",
+    "dev": "nodemon Task2/server.js"
   },
   "author": "",
   "license": "ISC",
